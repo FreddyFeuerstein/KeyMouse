@@ -20,6 +20,7 @@ Right click -> U I O P <- Middle click
 ```
 #
 Installation:
+
 On Debian / Ubuntu / Linux Mint:
 ```
 git clone http://github.com/FreddyFeuerstein/KeyMouse.git
@@ -27,9 +28,11 @@ cd KeyMouse
 sudo apt install ./keymouse_0.0.2-0_i386.deb
 ```
 On other distros:
+
 unpack the "bin-i386.zip" file and run the keymouse binary file.
 #
 Building from source:
+
 If you want to build your own (maybe modified) version, follow the following instructions:
 
 Make sure that you have pyinstaller for python 3 installed. If not, install it with the following command:
